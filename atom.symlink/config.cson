@@ -7,7 +7,7 @@
     invisibles: {}
     preferredLineLength: 120
     softTabs: true
-    tabLength: 4
+    tabLength: 2
   "exception-reporting":
     userId: "b5e9ed16-683d-9615-f4cd-77c5567599d2"
   linter:

@@ -1,4 +1,5 @@
 packages: [
+  "atom-autocomplete-php"
   "dash"
   "ex-mode"
   "file-types"
