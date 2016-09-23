@@ -3,6 +3,7 @@ packages: [
   "dash"
   "ex-mode"
   "file-types"
+  "file-icons"
   "git-blame"
   "linter"
   "linter-eslint"

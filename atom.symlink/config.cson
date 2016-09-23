@@ -19,6 +19,7 @@
     userId: "95a75129e47eb92c43bf3fb61f5bc320ceb00be2"
   "release-notes":
     viewedVersion: "0.81.0"
+  tabs: {}
   "tree-view":
     hideVcsIgnoredFiles: true
   "vim-mode": {}
