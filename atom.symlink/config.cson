@@ -21,7 +21,7 @@
     viewedVersion: "0.81.0"
   tabs: {}
   "tree-view":
-    hideVcsIgnoredFiles: true
+    hideVcsIgnoredFiles: false
   "vim-mode": {}
   welcome:
     showOnStartup: false
