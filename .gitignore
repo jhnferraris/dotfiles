@@ -9,3 +9,6 @@
 # VIM
 .vim/bundle
 
+# Sublime
+sublime-text/Packages/User.symlink/*.crt
+
