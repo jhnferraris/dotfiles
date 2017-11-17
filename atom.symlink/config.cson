@@ -1,17 +1,19 @@
 "*":
   "autocomplete-plus": {}
-  core: {}
+  core:
+    telemetryConsent: "limited"
   editor:
-    fontFamily: "DejaVu Sans Mono for Powerline"
-    fontSize: 12
+    fontFamily: "Roboto Mono"
+    fontSize: 15
     invisibles: {}
     preferredLineLength: 120
     softTabs: true
     tabLength: 2
   "exception-reporting":
     userId: "b5e9ed16-683d-9615-f4cd-77c5567599d2"
-  linter:
-    lintOnFly: false
+  fonts:
+    fontFamily: "Roboto Mono"
+  linter: {}
   "linter-flake8":
     executableDir: "/usr/local/bin"
     maxLineLength: 80
@@ -23,6 +25,7 @@
   "tree-view":
     hideVcsIgnoredFiles: false
   "vim-mode": {}
+  "vim-mode-plus": {}
   welcome:
     showOnStartup: false
   whitespace: {}
