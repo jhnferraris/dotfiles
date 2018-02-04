@@ -3,13 +3,13 @@
 protocol = https
 
 [core]
-	excludesfile = /Users/Shiki/.gitignore_global
+	excludesfile = /Users/jhnferraris/.gitignore_global
 	pager = less -FXRS -x2
 
 [credential]
 [user]
-	name = Shiki
-	email = jayson@basanes.net
+	name = jhnferraris
+	email = johnmichaelferraris@gmail.com
 [difftool "sourcetree"]
 	cmd = opendiff \"$LOCAL\" \"$REMOTE\"
 	path = 
