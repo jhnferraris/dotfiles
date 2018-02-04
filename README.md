@@ -1,10 +1,8 @@
-## Shiki's .files
+## jhnferraris .files
 
 Contains MacOS configuration files for VIM, Atom, Xcode, and others.
 
 ### General
-
-I use [shiki/sprout-wrap](http://github.com/shiki/sprout-wrap) forked from [pivotal-sprout/sprout-wrap](https://github.com/pivotal-sprout/sprout-wrap) to manage the packages/apps installed in my Mac machines. I usually run that before setting up these dotfiles.
 
 1. Clone this repo to a local dir (e.g. `~/.files`). Make sure to use `--recursive` when cloning or run `git submodules update --init --recursive` after cloning.
 2. Install these packages if they were not installed through sprout-wrap:
