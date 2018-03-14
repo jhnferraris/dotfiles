@@ -18,4 +18,9 @@ export DOTFILES=$HOME/.files
 source $DOTFILES/.exports
 source $HOME/.extra
 
+# NVM
+export NVM_DIR="$HOME/.nvm"
+source $(brew --prefix nvm)/nvm.sh
 
+# ADB
+export PATH=$HOME/Library/Android/sdk/platform-tools:$PATH
