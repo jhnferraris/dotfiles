@@ -21,3 +21,7 @@ source $HOME/.extra
 # NVM
 export NVM_DIR="$HOME/.nvm"
 [ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh"
+
+# ADB
+export PATH=$HOME/Library/Android/sdk/platform-tools:$PATH
+
