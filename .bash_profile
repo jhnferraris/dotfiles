@@ -18,4 +18,6 @@ export DOTFILES=$HOME/.files
 source $DOTFILES/.exports
 source $HOME/.extra
 
-
+# NVM
+export NVM_DIR="$HOME/.nvm"
+[ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh"
