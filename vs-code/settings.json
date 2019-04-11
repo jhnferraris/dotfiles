@@ -20,6 +20,8 @@
     "editor.tabSize": 2
   },
   "terminal.external.osxExec": "iTerm.app",
-  "editor.fontFamily": "Hack"
+  "editor.fontFamily": "Hack",
+  "window.zoomLevel": 0,
+  "workbench.colorTheme": "One Monokai"
 }
 
