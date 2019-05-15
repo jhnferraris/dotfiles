@@ -22,6 +22,8 @@
   "terminal.external.osxExec": "iTerm.app",
   "editor.fontFamily": "Hack",
   "window.zoomLevel": 0,
-  "workbench.colorTheme": "One Monokai"
+  "workbench.colorTheme": "One Monokai",
+  "workbench.editor.enablePreview": false,
+  "workbench.editor.enablePreviewFromQuickOpen": false
 }
 
