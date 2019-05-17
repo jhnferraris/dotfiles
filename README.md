@@ -1,6 +1,6 @@
 ## jhnferraris .files
 
-Contains MacOS configuration files for VIM, Atom, Xcode, and others.
+Contains MacOS configuration files for VIM, Visual Studio Code, and others.
 
 ### General
 
@@ -24,7 +24,7 @@ Contains MacOS configuration files for VIM, Atom, Xcode, and others.
 ### VSCode
 
 1. Install `brew cask install visual-studio-code`
-2. Symlink `dotfiles/vs-code/settings.json` to the directory of Visual Studio Code config
+2. Symlink `dotfiles/vs-code/settings.json` to `$HOME/Library/Application Support/Code/User/settings.json`
 
 ### Git
 
