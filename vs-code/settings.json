@@ -24,6 +24,7 @@
   "window.zoomLevel": 0,
   "workbench.colorTheme": "One Monokai",
   "workbench.editor.enablePreview": false,
-  "workbench.editor.enablePreviewFromQuickOpen": false
+  "workbench.editor.enablePreviewFromQuickOpen": false,
+  "workbench.panel.defaultLocation": "right"
 }
 
