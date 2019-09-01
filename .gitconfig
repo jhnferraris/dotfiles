@@ -3,7 +3,7 @@
 protocol = https
 
 [core]
-	excludesfile = /Users/jhnferraris/.gitignore_global
+	excludesfile = $HOME/.gitignore_global
 	pager = less -FXRS -x2
 
 [credential]

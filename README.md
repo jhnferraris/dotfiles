@@ -7,8 +7,6 @@ Contains MacOS configuration files for VIM, Visual Studio Code, and others.
 1. Clone this repo to a local dir (e.g. `~/.files`). Make sure to use `--recursive` when cloning or run `git submodules update --init --recursive` after cloning.
 2. Install these packages if they were not installed through sprout-wrap:
   * [Oh My Zsh](https://github.com/robbyrussell/oh-my-zsh)
-  * MacVIM using `brew install macvim`
-  * [Atom](https://atom.io/)
   * [iTerm2](https://www.iterm2.com/)
 3. Install the [Powerline fonts](https://github.com/powerline/fonts).
 
@@ -30,13 +28,16 @@ Contains MacOS configuration files for VIM, Visual Studio Code, and others.
 
 1. Symlink `dotfiles/.gitconfig` to `~/.gitconfig`
 
+### NVM
 
-### MacVIM
+1. Install NVM - `$ brew install nvm`
+2. Follow the extra steps after Homebrew installs the package.
 
-1. Symlink these files
+### MySQL
 
-  * `dotfiles/.vim` to `~/.vim`
-  * `dotfiles/.vimrc` to `~/.vimrc`
+1. Install using Homebrew - `$ brew install mysql@5.7`
 
-2. In MacVIM, run `:PluginInstall` to install all plugins. This instructs the [Vundle](https://github.com/VundleVim/Vundle.vim) package to install all the other packages managed by it.
-3. The VIM config uses DejaVu Sans Mono for Powerline. For VIM to use this font in the terminal, make sure to set this font as the default font in the Terminal or iTerm2.
+### Google Cloud SDK (Optional)
+
+1. `$ brew cask install google-cloud-sdk`
+
