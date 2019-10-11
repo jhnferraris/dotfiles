@@ -1,7 +1,6 @@
 {
   // Place your settings in this file to overwrite default and user settings.
   "editor.formatOnSave": true,
-  "prettier.eslintIntegration": true,
   "prettier.printWidth": 160,
   "prettier.tabWidth": 2,
   "prettier.trailingComma": "none",
@@ -22,7 +21,6 @@
   "terminal.external.osxExec": "iTerm.app",
   "editor.fontFamily": "Hack",
   "window.zoomLevel": 0,
-  "workbench.colorTheme": "One Monokai",
   "workbench.editor.enablePreview": false,
   "workbench.editor.enablePreviewFromQuickOpen": false,
   "workbench.panel.defaultLocation": "right",
@@ -31,4 +29,3 @@
   "workbench.sideBar.location": "left",
   "search.location": "panel"
 }
-
