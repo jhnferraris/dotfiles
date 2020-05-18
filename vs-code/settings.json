@@ -19,13 +19,11 @@
     "editor.tabSize": 2
   },
   "terminal.external.osxExec": "iTerm.app",
-  "editor.fontFamily": "Hack",
   "window.zoomLevel": 0,
   "workbench.editor.enablePreview": false,
   "workbench.editor.enablePreviewFromQuickOpen": false,
   "workbench.panel.defaultLocation": "right",
   "javascript.updateImportsOnFileMove.enabled": "always",
   "workbench.activityBar.visible": false,
-  "workbench.sideBar.location": "left",
-  "search.location": "panel"
+  "workbench.sideBar.location": "left"
 }
